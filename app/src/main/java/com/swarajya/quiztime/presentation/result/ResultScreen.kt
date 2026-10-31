@@ -37,7 +37,6 @@ import androidx.compose.ui.unit.dp
 import com.swarajya.quiztime.R
 import com.swarajya.quiztime.domain.model.QuizQuestion
 import com.swarajya.quiztime.domain.model.UserAnswer
-import com.swarajya.quiztime.presentation.result.ResultState
 import com.swarajya.quiztime.presentation.theme.CustomGreen
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.emptyFlow
